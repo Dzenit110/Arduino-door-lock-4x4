@@ -11,13 +11,18 @@ When the user approaches the door and enters the correct code, the door unlocks 
 
 <br>
 <div style="text-align: center;"> 
-Figure 1 Display of the System Implemented in Real Life (Prototype)
+<p> Figure 1 Display of the System Implemented in Real Life (Prototype)</p>
+  
 </div>
 <br><br>
+
 <div style="text-align: center;"> 
+
 ![20161217_090556](https://github.com/user-attachments/assets/a2770356-c321-405f-bb8c-3260eb90e72b)
+
 <br>
-Figure 2 Display of the Connected System in Fritzing Before Implementation in Real Life (Simulation of Real Connections)
+<p> Figure 2 Display of the Connected System in Fritzing Before Implementation in Real Life (Simulation of Real Connections)</p>
+
 </div>
 
 <br><br>
