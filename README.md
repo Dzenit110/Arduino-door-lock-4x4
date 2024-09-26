@@ -32,7 +32,7 @@ When the user approaches the door and enters the correct code, the door unlocks 
 
 <div style="display: inline;">
     <img src="https://skillicons.dev/icons?i=arduino,cpp"style="margin-right: 10px;" />
-    <img src="https://github.com/user-attachments/assets/c53560da-cbab-4f95-89c7-f80b95beca2c" width="60" height="60" />
+    <img src="https://github.com/user-attachments/assets/c53560da-cbab-4f95-89c7-f80b95beca2c" width="50" height="50" />
 </div>
 
 
