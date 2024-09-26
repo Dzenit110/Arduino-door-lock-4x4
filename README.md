@@ -31,4 +31,5 @@ When the user approaches the door and enters the correct code, the door unlocks 
 ## 🧰 Languages & Tools <br><br>
 
 <img src="https://skillicons.dev/icons?i=arduino,cpp"/>
+<img src="https://github.com/user-attachments/assets/c53560da-cbab-4f95-89c7-f80b95beca2c" width="65" height="65"  &nbsp; &nbsp;/>
 
