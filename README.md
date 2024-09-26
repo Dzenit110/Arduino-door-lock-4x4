@@ -10,7 +10,7 @@ When the user approaches the door and enters the correct code, the door unlocks 
 <div style="text-align: center;"> 
 <img src="https://github.com/user-attachments/assets/859e570c-f832-4c88-81dc-fbc6dc1f929e" alt="Arduino Door Lock Prototype" width="500" height="500" />
 
-<br>
+<br><br>
 
 <p> Figure 1 Display of the System Implemented in Real Life (Prototype)</p>
   
@@ -21,7 +21,7 @@ When the user approaches the door and enters the correct code, the door unlocks 
 
 <img src="https://github.com/user-attachments/assets/a2770356-c321-405f-bb8c-3260eb90e72b" alt="Fritzing Simulation" width="500" height="500" />
 
-<br>
+<br><br>
 <p> Figure 2 Display of the Connected System in Fritzing Before Implementation in Real Life (Simulation of Real Connections)</p>
 
 </div>
