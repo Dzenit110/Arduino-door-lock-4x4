@@ -26,7 +26,7 @@ When the user approaches the door and enters the correct code, the door unlocks 
 
 </div>
 
-<br><br>
+<br>
 
 ## 🧰 Languages & Tools <br><br>
 
