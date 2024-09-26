@@ -7,22 +7,20 @@ When the user approaches the door and enters the correct code, the door unlocks 
 
 ## User Interface Examples
 
-![Project-20-Arduino-Door-Lock-Using-4x4-Keypad-and-Servo-Motor-1-1024x768](https://github.com/user-attachments/assets/859e570c-f832-4c88-81dc-fbc6dc1f929e)
-
-<br>
 <div style="text-align: center;"> 
-<p> Figure 1 Display of the System Implemented in Real Life (Prototype)</p>
-  
+    <img src="https://github.com/user-attachments/assets/859e570c-f832-4c88-81dc-fbc6dc1f929e" alt="Arduino Door Lock Prototype" width="100" height="100" />
+
+    <br>
+
+    <p> Figure 1 Display of the System Implemented in Real Life (Prototype)</p>
 </div>
 <br><br>
 
 <div style="text-align: center;"> 
+    <img src="https://github.com/user-attachments/assets/a2770356-c321-405f-bb8c-3260eb90e72b" alt="Fritzing Simulation" width="100" height="100" />
 
-![20161217_090556](https://github.com/user-attachments/assets/a2770356-c321-405f-bb8c-3260eb90e72b)
-
-<br>
-<p> Figure 2 Display of the Connected System in Fritzing Before Implementation in Real Life (Simulation of Real Connections)</p>
-
+    <br>
+    <p> Figure 2 Display of the Connected System in Fritzing Before Implementation in Real Life (Simulation of Real Connections)</p>
 </div>
 
 <br><br>
